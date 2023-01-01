@@ -1,5 +1,5 @@
 /*
-    this prigram is ment to illustrate how deferencing works in a 2d array.
+    this program is ment to illustrate how deferencing works in a 2d array.
     based on example in this video : https://www.youtube.com/watch?v=zuegQmMdy8M - Pointers in C / C++ [Full Course] by FCC
 */
 #include<stdio.h>
